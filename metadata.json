@@ -1,0 +1,6 @@
+{
+  "name": "Mathematical Engine & Expert Calculator",
+  "description": "An adaptive mathematical engine and handwriting canvas calculator that solves equations step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
